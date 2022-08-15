@@ -1,0 +1,19 @@
+Row,Reference,Value,P/N,Manufacture,JLPCB Part#,Footprint,Description,Quantity Per PCB
+1,,ARM JTAG,,,,PinHeader_2x10_P2.54mm_Vertical,"Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",6
+
+
+
+
+
+Project info:
+Schematic:,olimex_stm32mp1_jtag
+Variant:,default
+Revision:,0.1
+Date:,2022-08-15
+KiCad Version:,6.0.5+dfsg-1~bpo11+1
+Statistics:
+Component Groups:,1
+Component Count:,6
+Fitted Components:,6
+Number of PCBs:,1
+Total Components:,6

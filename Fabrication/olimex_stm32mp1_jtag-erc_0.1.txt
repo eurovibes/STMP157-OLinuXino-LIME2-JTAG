@@ -1,0 +1,8 @@
+ERC report (Tue Aug 16 04:58:46 2022, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol 'Jumper_3_Open' has been modified in library 'Jumper'.
+    ; Severity: warning
+    @(135.89 mm, 58.42 mm): Symbol JP1 [Jumper_3_Open]
+
+ ** ERC messages: 1  Errors 0  Warnings 1
