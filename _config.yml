@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+
+title: Olimex STMP157-OLinuXino-LIME2 JTAG breakout board
+description: On the Olimex STMP157-OLinuXino-LIME2 board the JTAG signals are routed to GPIO 3 and not to a common JTAG connector. STMP157-OLinuXino-LIME2-JTAG is a breakout board to connect common JTAG adapters to the board.
+logo: https://raw.githubusercontent.com/eurovibes/STMP157-OLinuXino-LIME2-JTAG/master/images/logo.png
+show_downloads: true
+
+github:
+  zip_url: downloads/fabrication.zip
+  tar_url: downloads/fabrication.tar.gz
